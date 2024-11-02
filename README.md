@@ -3,3 +3,5 @@
 
 
 ## https://talesofdancingcurls.medium.com/spring-boot-with-postgresql-a-step-by-step-guide-c451848f0184
+
+## To test this create a database called Employee and in it put the table employee from the table.sql file.
